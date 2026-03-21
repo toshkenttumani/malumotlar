@@ -1,0 +1,2 @@
+# malumotlar
+Malumotlar 
